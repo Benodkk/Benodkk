@@ -34,4 +34,4 @@ Currently, I am learning
 
 ![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)    daniel.kozlowski2607@gmail.com
 
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)   [https://www.linkedin.com/in/daniel-koz%C5%82owski-49a636252/](https://www.linkedin.com/in/daniel-koz%C5%82owski-172231269/)
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)   [https://www.linkedin.com/in/daniel-koz%C5%82owski-49a636252/](https://www.linkedin.com/in/daniel-kozlowski-172231269/)
