@@ -1,7 +1,6 @@
 # Thanks for visiting my GitHub Profile! 👋
 
 ## About me 🙋‍♂️ 
-&nbsp;
 
 Hi, I'm Daniel, a Front-end enthusiast who is looking for his first job as a programmer.
 
@@ -13,10 +12,7 @@ I have a degree in civil engineering, which I obtained in February 2022 at the A
 
 Currently, as part of my practice, I am creating my own projects, which you can see on my profile. I try to create projects that will demonstrate what I am capable of and help me find my first job as a programmer.
  
-&nbsp;
-
 ## Technologies I use 🛠️
-&nbsp;
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![React-router](https://img.shields.io/badge/react--router-black?style=for-the-badge&logo=react-router&logoColor=white)![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
