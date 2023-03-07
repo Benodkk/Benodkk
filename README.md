@@ -6,7 +6,7 @@ Hi, I'm Daniel, a Front-end enthusiast who is looking for his first job as a pro
 
 ### How its started? 
 
-I have a degree in civil engineering, which I obtained in February 2022 at the AGH University of Science and Technology in Cracow. After finishing my studies, I decided to take a break from civil engineering and try my hand at programming. I enjoyed it from the very beginning. In March 2022, I started a basic programming course at [The odin project](https://www.theodinproject.com/), and then I started the Full Stack JavaScript course, also at The Odin Project. However, I decided to skip the part related to Back-end and focused on developing my front-end skills. I deepened my knowledge of React in the [Advanced React od Scrimba](https://scrimba.com/learn/react). Since completing this course, I have been seeking new challenges and technologies that are essential for every front-end developer.
+I have a degree in civil engineering, which I obtained in February 2022 at the AGH University of Science and Technology in Cracow. After finishing my studies, I decided to take a break from civil engineering and try my hand at programming. I enjoyed it from the very beginning. In March 2022, I started a basic programming course at [The odin project](https://www.theodinproject.com/), and then I started the Full Stack JavaScript course, also at The Odin Project. However, I decided to skip the part related to Back-end and focused on developing my front-end skills. I deepened my knowledge of React in the [Advanced React course from Scrimba](https://scrimba.com/learn/react). Since completing this course, I have been seeking new challenges and technologies that are essential for every front-end developer.
 
 ### How its going?
 
