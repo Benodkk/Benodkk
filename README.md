@@ -3,22 +3,22 @@
 ## About me 🙋‍♂️ 
 &nbsp;
 
-Cześć, jestem Daniel, Front-end enthusiast, który szuka swojej pierwszej pracy jako programista.
+Hi, I'm Daniel, a Front-end enthusiast who is looking for his first job as a programmer.
 
 ### How its started? 
 
-Z wykształcenia jestem inżynierem budownictwa, swój tytuł uzyskałem w lutym 2022 na uczelni AGH w Krakowie. Po skończeniu studiów postanowiłem zrobić przerwę od budownictwa i spróbować swoich sił w programowaniu. Od początku zaczęło mi się podobać. W marcu 2022 zacząłem kurs podstaw programowania od The odin project (https://www.theodinproject.com/), następnie zacząłęm kurs Full Stack JavaScript również od The odin project. Odpuściłem jednak część związaną z Back-endem i skupiłem się na rozwijaniu umięjętności frontendowych. Pogłebiłem wiedzę na team React w kursie Advanced React od Scrimba (https://scrimba.com/learn/react), od ukończenia tego kursu, sam szukałem nowych wyzwań i technologii, które są potrzebne każdemu front-end developerowi. 
+I have a degree in civil engineering, which I obtained in February 2022 at the AGH University of Science and Technology in Cracow. After finishing my studies, I decided to take a break from civil engineering and try my hand at programming. I enjoyed it from the very beginning. In March 2022, I started a basic programming course at [The odin project](https://www.theodinproject.com/), and then I started the Full Stack JavaScript course, also at The Odin Project. However, I decided to skip the part related to Back-end and focused on developing my front-end skills. I deepened my knowledge of React in the [Advanced React od Scrimba](https://scrimba.com/learn/react). Since completing this course, I have been seeking new challenges and technologies that are essential for every front-end developer.
 
 ### How its going?
 
-Obecnie w ramach praktyki, tworzę własne projekty, które możecie zobaczyć na moim profilu. Staram się tworzyć, które pokażą na co mnie stać i pomogą mi znaleźć pierwszą pracę jako programista 
+Currently, as part of my practice, I am creating my own projects, which you can see on my profile. I try to create projects that will demonstrate what I am capable of and help me find my first job as a programmer.
  
- &nbsp;
+&nbsp;
 
 ## Technologies I use 🛠️
 &nbsp;
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![React-router](https://img.shields.io/badge/react--router-black?style=for-the-badge&logo=react-router&logoColor=white)![](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![React-router](https://img.shields.io/badge/react--router-black?style=for-the-badge&logo=react-router&logoColor=white)![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
